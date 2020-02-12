@@ -34,13 +34,8 @@ Following tags are currently in use:
 - [Zynq Book](http://www.zynqbook.com)
 - [SDK](http://www.wiki.xilinx.com/Zynq+2016.2+Release)
 
-## Contributor
+## Contributors
 - Malte Koch ([@baudcode](https://github.com/baudcode/))
 - Felix Boenke ([@FLoppix](https://github.com/FLoppix/))
+- Patrick Denzler ([@Patistar](https://github.com/Patistar/))
 - Vincent Woelfer
-- Patrick Denzler
-
-
-
-
-
